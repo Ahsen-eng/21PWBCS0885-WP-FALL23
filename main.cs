@@ -7,7 +7,7 @@ namespace MyApplication
   {
     static void MyMethod()
     {
-      Console.WriteLine("I just got executed!");
+      Console.WriteLine("My  name is Ahsen Khalil");
     }
 
     static void Main(string[] args)
